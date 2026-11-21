@@ -67,6 +67,6 @@ Not yet: there is no Intel build. Write to hello@marqius.com if you need one.
 
 ## Licence
 
-marqius-wkhtmltopdf is commercial software from Simple AI LLC, free for 30 days from its first run; `marqius-wkhtmltopdf licence` shows the days left. After the trial, without a licence, each page carries one line saying the copy is unlicensed: it never stops making PDFs. [Plans and licences](https://marqius.com/wkhtmltopdf-buy/).
+marqius-wkhtmltopdf is commercial software from Simple AI LLC, free for 30 days from its first run; `marqius-wkhtmltopdf licence` shows the days left. After the trial, without a licence, each page carries one line, “Prepared by Marqius, Purchase Licence”: it never stops making PDFs. [Plans and licences](https://marqius.com/wkhtmltopdf-buy/).
 
 More about the program: [marqius-wkhtmltopdf](https://github.com/marqiushq/marqius-wkhtmltopdf). Questions: hello@marqius.com.
