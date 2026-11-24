@@ -3,9 +3,9 @@
 class MarqiusWkhtmltopdf < Formula
   desc "Drop-in wkhtmltopdf replacement for HTML to PDF (commercial, 30-day trial)"
   homepage "https://marqius.com/wkhtmltopdf/"
-  url "https://marqius.com/download/marqius-wkhtmltopdf/0.12.13/marqius-wkhtmltopdf-linux-x86_64"
-  version "0.12.13"
-  sha256 "f6dc76b3ffee3d488976aa7dc601732c83197eaae87f9f3c28c375d778ee7f6d"
+  url "https://marqius.com/download/marqius-wkhtmltopdf/0.12.14/marqius-wkhtmltopdf-linux-x86_64"
+  version "0.12.14"
+  sha256 "6c49d17d6c6c89870a7efa0372ee531d560dd06ff48cbed00e4cbcb24cc82863"
   license :cannot_represent
 
   livecheck do
@@ -15,8 +15,8 @@ class MarqiusWkhtmltopdf < Formula
 
   on_macos do
     on_arm do
-      url "https://marqius.com/download/marqius-wkhtmltopdf/0.12.13/marqius-wkhtmltopdf-macos-arm64"
-      sha256 "5feed456250e14d11872af05906faa8dbd362e12ca91f075088fc2f3a230017d"
+      url "https://marqius.com/download/marqius-wkhtmltopdf/0.12.14/marqius-wkhtmltopdf-macos-arm64"
+      sha256 "1ce008a10ff1b4a00096006ef7dc90a8c706071c93a705e3778ef50665e21391"
     end
 
     # the macOS build is for Apple silicon; for Intel Macs, write to hello@marqius.com
@@ -25,8 +25,8 @@ class MarqiusWkhtmltopdf < Formula
 
   on_linux do
     on_arm do
-      url "https://marqius.com/download/marqius-wkhtmltopdf/0.12.13/marqius-wkhtmltopdf-linux-arm64"
-      sha256 "cde19b5ca4b67849573c8b7be512b1f4d527f4aee98d2c26e26dd395deb1498f"
+      url "https://marqius.com/download/marqius-wkhtmltopdf/0.12.14/marqius-wkhtmltopdf-linux-arm64"
+      sha256 "66236a466284bedd1af73db7d06cc2b990ac2057f6b13d2be7b88c3f4d79014a"
     end
   end
 
